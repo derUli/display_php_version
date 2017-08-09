@@ -1,6 +1,6 @@
 {
 	"id": "display_php_version",
-	"version": "2017.3.12",
+	"version": "1.0",
 	"description": "Display PHP version at Dashboard",
 	"categories": [
 		"info",
