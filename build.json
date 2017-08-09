@@ -1,0 +1,10 @@
+{
+	"id": "display_php_version",
+	"version": "2017.3.12",
+	"description": "Display PHP version at Dashboard",
+	"categories": [
+		"info",
+		"admin"
+	],
+	"compatible_from": "2017.3.12"
+}
